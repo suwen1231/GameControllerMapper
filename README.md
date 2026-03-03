@@ -16,7 +16,7 @@
 > 由於 Windows 的安全機制，若目標軟體權限高於本工具，模擬的訊號將會失效。使用管理員權限執行可確保訊號在所有軟體中（如工作管理員）都能運作。
 
 ### 3. 相關連結
-* **GitHub 原始碼：** [[https://github.com/suwen1231/GameControllerMapper](https://github.com/suwen1231/GameControllerMapper)]
+* **GitHub 原始碼：** [https://github.com/suwen1231/GameControllerMapper](https://github.com/suwen1231/GameControllerMapper)
 * **Google 硬碟載點：** [https://drive.google.com/file/d/1eUaTcYWJ6MNYLn0mPvZMjSCby_3X30uc/view?usp=sharing](https://drive.google.com/file/d/1eUaTcYWJ6MNYLn0mPvZMjSCby_3X30uc/view?usp=sharing)
 
 ---

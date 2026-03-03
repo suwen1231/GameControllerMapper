@@ -17,7 +17,7 @@
 
 ### 3. 相關連結
 * **GitHub 原始碼：** [https://github.com/suwen1231/GameControllerMapper](https://github.com/suwen1231/GameControllerMapper)
-* **Google 硬碟載點：** [https://drive.google.com/file/d/1eUaTcYWJ6MNYLn0mPvZMjSCby_3X30uc/view?usp=sharing](https://drive.google.com/file/d/1eUaTcYWJ6MNYLn0mPvZMjSCby_3X30uc/view?usp=sharing)
+* **Google 硬碟載點：** [https://drive.google.com/file/d/1WrtWvVUi__KL11LqOQVXveRCDFxqGkqY/view?usp=sharing](https://drive.google.com/file/d/1WrtWvVUi__KL11LqOQVXveRCDFxqGkqY/view?usp=sharing)
 
 ---
 
